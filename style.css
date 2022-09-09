@@ -1,0 +1,41 @@
+
+.wrap {
+         width: 2000px;/*фиксируем ширину обертки*/
+         margin: 0 auto;/*центрируем ее*/
+         background: darkgray;
+         height: 120px;/*Задаем высоту обертки*/
+        }
+ 
+.bblock {
+        float: left; /*Задаем обтекание*/
+        line-height: 120px;/*Высота строки +  верт. центрирования текста*/
+        font-size: 40px;
+        background: dodgerblue;
+        color: white;
+        width: 320px; /*Фиксируем ширину блока*/
+        margin-right: 10px;
+        text-align: center; /*Центрируем текст по горизонтали*/
+}
+.wrap :last-child {
+        margin-right: 0px;/*Убираем поле последнего div-а*/
+                       }
+					   
+.content{
+	
+	margin-top:100px;
+	margin-left:100px;
+	
+}
+
+body{
+	background-image: url("./img/5.jpg");
+	font-size:30px;
+color:#FFFFFF!important;
+text-shadow: 1px 0 1px #000,
+0 1px 1px #000,
+-1px 0 1px #000,
+0 -1px 1px #000;
+
+	
+	
+}
