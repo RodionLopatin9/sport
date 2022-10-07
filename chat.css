@@ -12,7 +12,7 @@ form, p, span {
 input { font:12px arial; }
   
 a {
-    color:#0000FF;
+    color:#FFFFFF !important;
     text-decoration:none; }
   
     a:hover { text-decoration:underline; }

@@ -10,7 +10,7 @@
         float: left; /*Задаем обтекание*/
         line-height: 120px;/*Высота строки +  верт. центрирования текста*/
         font-size: 40px;
-        background: dodgerblue;
+        background: #164a0e;
         color: white;
         width: 320px; /*Фиксируем ширину блока*/
         margin-right: 10px;
