@@ -5,6 +5,10 @@
          background: darkgray;
          height: 120px;/*Задаем высоту обертки*/
         }
+
+a{
+        color: #FFFFFF;
+}
  
 .bblock {
         float: left; /*Задаем обтекание*/
